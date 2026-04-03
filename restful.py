@@ -4,6 +4,8 @@ import requests
 import json
 import csv
 
+print("hello word")
+
 class RestfulClient:
     API_BASE_URL = "https://jsonplaceholder.typicode.com"
 
